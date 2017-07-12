@@ -1,0 +1,4 @@
+server:
+  port: 8080
+Test: 
+  testValue: 21
